@@ -291,7 +291,7 @@ section info {
     color: rgb(194, 34, 34);
     display: flex;
     align-items: center;
-    padding: 12rem 6rem;
+    padding: 9rem 7.5rem;
     justify-content: space-between;
 }
 
@@ -321,7 +321,7 @@ h3 {
 
 .exp {
   background: linear-gradient(to bottom, #555555, #000000);
-    padding: 12rem 6rem;
+    padding: 10.1rem 7.5rem;
     color: rgb(235, 235 , 235);
 }
 
